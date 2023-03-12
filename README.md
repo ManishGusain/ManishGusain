@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ManishGusain
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in React.
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me - manishgusain66@gmail.com
 
